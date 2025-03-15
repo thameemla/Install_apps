@@ -44,6 +44,7 @@ apps=(  'firefox'
         'pppc-utility'
         'balenaetcher'
         'arc'
+        'warp'
         )
 
 for f in $apps;
