@@ -39,6 +39,11 @@ apps=(  'firefox'
         'google-drive'
         'cron'
         'oracle-jdk'
+        'mist'
+        'megasync'
+        'pppc-utility'
+        'balenaetcher'
+        'arc'
         )
 
 for f in $apps;
